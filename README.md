@@ -3,6 +3,6 @@
 - 🌱 I’m currently a web developer at Africa Moja Tours  
 - 📫 You can reach me via my Mail Toomaylow@gmail.com
 - ---
-toomaylow/toomaylow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Diploma Graduate in Information Technology Software Development Qualification from Rosebank college. I am a fast learner, hard worker and I pay attention to details and I can work under a lot of pressure. I am an amazing problem
+solver. I am a persistence person and I don’t give up very easily. My
+dependability. I can make a decision under a lot of pressure.
