@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tumelo Sekgobela , i am Currently a Web Developer with a Software development certificate. 
-- 👀 I’m interested Coding "Java, C# , Android and Well as mySql" 
+- 👀 I’m interested Coding "JavaScript, Css and Html" 
 - 🌱 I’m currently a web developer at Africa Moja Tours  
 - 📫 You can reach me via my Mail Toomaylow@gmail.com
 - ---
